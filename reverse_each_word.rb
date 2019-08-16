@@ -1,7 +1,7 @@
 def reverse_each_word(string)
   reverse = []
   reverse << string.split
-  reverse
+  return reverse
 end
 
 
