@@ -3,7 +3,7 @@ def reverse_each_word(string)
   reverse = []
   reverse << string.split(" ")
   reverse.each do |string|
-    puts string.reverse + " "
+    
   end
 end
 
